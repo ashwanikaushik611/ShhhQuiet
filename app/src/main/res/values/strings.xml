@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Shhh Quiet</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="register">REGISTER</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_and_account_login_here">Already have and account? Login Here</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="change_password">Change Password</string>
+    <string name="faq">Frequently Asked Questions</string>
+    <string name="rtd">Reset the settings to default</string>
+    <string name="feedback">Feedback</string>
+    <string name="share">Share the application</string>
+    <string name="about_us">About Us</string>
+    <string name="change_password1">Change Password?</string>
+    <string name="enter_your_old_password">Enter your old password</string>
+    <string name="enter_your_new_password">Enter your new password</string>
+    <string name="confirm_your_new_password">Confirm your new password</string>
+    <string name="change">change</string>
+    <string name="feedback_please">Feedback Please</string>
+    <string name="help_us_improve">Help us to improve</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="verification_alert">Verification Alert!</string>
+    <string name="verify_description">It looks like your account is not verified till yet, please verify it to use the application…</string>
+    <string name="resend">Resend the verification link</string>
+    <string name="switchtext">Switch</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="switchbt_text">Switch hai</string>
+    <string name="your_current_configrations">Your Current Configrations</string>
+    <string name="textcall">Notification\nCalls\nMessages</string>
+    <string name="setting_title">Setting</string>
+    <string name="backmenu">Back</string>
+    <string name="update_work_location">Update Work Location</string>
+</resources>
